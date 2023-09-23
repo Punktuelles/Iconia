@@ -8,6 +8,8 @@ public class TextRead {
 
 	public void readFileToArray(String filePath) {
 
+    //@IDEA use seperate objects
+
 		try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
 			String line;
 			while ((line = reader.readLine()) != null) {
