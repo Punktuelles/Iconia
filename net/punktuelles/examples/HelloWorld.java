@@ -1,10 +1,12 @@
-package net.punktuelles;
+package net.punktuelles.examples;
 
 /**
  * 
  */
 import java.util.*;
 import java.util.stream.IntStream;
+
+import net.punktuelles.Descendant;
 
 /**
  * 

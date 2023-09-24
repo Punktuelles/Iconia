@@ -1,4 +1,4 @@
-package net.punktuelles;
+package net.punktuelles.helper;
 
 public class Print {
 

@@ -2,6 +2,8 @@ package net.punktuelles;
 
 import java.util.stream.IntStream;
 
+import net.punktuelles.helper.Print;
+
 public class Era {
 
 	public static void main(String[] args) {
