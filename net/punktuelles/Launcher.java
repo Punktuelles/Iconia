@@ -24,6 +24,8 @@ public class Launcher {
 		
 		String userOrdner = textRead.getUserOrdner();
 		
+		textRead.readFileToArray("/home/era/.test.txt");
+		
 		Print.p("UserOrdner" + userOrdner, 1);
 		
 }
